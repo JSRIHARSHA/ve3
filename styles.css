@@ -1,0 +1,43 @@
+body{
+    background: black;
+}
+
+
+form{
+    margin-left: 520px;
+    margin-top: 80px;
+}
+
+
+h1{
+    margin-left: 455px;
+    color: whitesmoke;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+h2{
+    margin-left:250px;
+    color: whitesmoke;
+    margin-top: 100px;
+}
+
+
+input{
+    margin-top: 30px;
+    width: 155px;
+    height: 25px;
+    border-radius: 15px;
+}
+
+select{
+    width: 160px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+button{
+    margin-top:30px;
+    margin-left: 35px;
+    border-radius: 20px;
+}
